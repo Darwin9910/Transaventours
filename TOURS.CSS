@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 
-
 /* Fuente personalizada */
 
 .encabezado h3{color:rgb(12, 88, 44);
@@ -15,16 +14,11 @@
     font-family:'futurafont';
     }
 
-
-
-
-
 /* Estilos para todas las imágenes */
 img {
     width: 100%;
     margin: 2%;
 }
-
 
 /* Estilos para la barra de navegación */
 .barra {
