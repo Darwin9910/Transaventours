@@ -17,11 +17,11 @@ header{
 
 }
 
-h3{color:rgb(12, 88, 44);
+.encabezado h3{color:rgb(12, 88, 44);
     text-align: left;
-padding:2%;
-font-family:'futurafont';
-}
+    padding:2%;
+    font-family:'futurafont';
+    }
 
 .barra {
     display: flex;
